@@ -12,3 +12,5 @@ Usage :
 - You can define the two sequences to be aligned at the beginning of the code 
 - This program supports affine penalties for gap : simply define the gap penalty in the function at the very end of the script 
 - Run the code, it displays the substitution matrix and the alignement, along with a couple stats 
+
+:information_source: Please report any bug/issue in the *issues* section or directly at sebcararo@hotmail.fr (Any feedback is really appreciated :speech_balloon: :+1:). A :star2: is also greatly appreciated :raised_hands:. </br>
